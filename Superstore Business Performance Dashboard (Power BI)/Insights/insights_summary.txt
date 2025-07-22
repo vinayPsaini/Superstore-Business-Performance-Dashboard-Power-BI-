@@ -1,0 +1,9 @@
+## 💡 Key Business Insights
+
+| 🔍 Insight | 💡 Observation |
+|-----------|----------------|
+| High Shipping Cost Zones | North & Central regions have high shipping expenses |
+| Unprofitable Categories | Furniture category has high sales but low profits due to discounts |
+| Shipping Modes | Same-Day and First Class delivery is significantly costlier |
+| Customer Segments | Corporate clients face longer delays |
+| Order Priorities | High-priority orders increase shipping cost and complexity |
