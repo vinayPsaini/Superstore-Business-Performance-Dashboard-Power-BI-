@@ -6,7 +6,7 @@
 
 ## 🧠 Project Summary
 
-This interactive Power BI dashboard uncovers key trends in **sales**, **profit**, **shipping costs**, and **delivery delays** across regions, product categories, segments, and ship modes.
+This interactive Power BI Dashboard uncovers key trends in **sales**, **profit**, **shipping costs**, and **delivery delays** across regions, product categories, segments, and ship modes.
 
 The report is tailored for **category managers**, **logistics teams**, and **business decision-makers** to explore:
 
